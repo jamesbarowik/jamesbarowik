@@ -3,3 +3,6 @@
 
 **Project I'm working on**
 - [SilentSmeary/mysql_backup](https://github.com/SilentSmeary/mysql_backup) - A backup service for MySQL that pushes to github
+
+**Project I've previously working on**
+- [SilentSmeary/UTC-Smartsearch-Project](https://github.com/UTC-Smartsearch-Project) - A backup service for MySQL that pushes to github
