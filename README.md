@@ -1,5 +1,5 @@
-![](https://github-readme-stats.vercel.app/api?username=SilentSmeary&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SilentSmeary&theme=dark&hide_border=false)<br/>
+
+![Metrics](https://metrics.lecoq.io/SilentSmeary?template=classic&lines=1&stars=1&calendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&calendar=false&calendar.limit=1&introduction=false&introduction.title=true&config.timezone=Europe%2FLondon)
 
 **Projects I'm working currently on**
 - [SilentSmeary/mysql_backup](https://github.com/SilentSmeary/mysql_backup) - A backup service for MySQL that pushes to github
