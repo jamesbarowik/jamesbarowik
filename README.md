@@ -1,4 +1,5 @@
-![Metrics](https://metrics.lecoq.io/SilentSmeary?template=classic&stars=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&stars=false&stars.limit=4&config.timezone=Europe%2FLondon)
+<p align="left"><img src="https://raw.githubusercontent.com/SilentSmeary/SilentSmeary/main/github-metrics.svg" /></p>
+
 
 **Projects I'm working currently on**
 - [SilentSmeary/mysql_backup](https://github.com/SilentSmeary/mysql_backup) - A backup service for MySQL that pushes to github
