@@ -1,5 +1,6 @@
 <p align="left"><img src="https://raw.githubusercontent.com/SilentSmeary/SilentSmeary/main/github-metrics.svg" /></p>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X8HCGQK)
 
 **Projects I'm working currently on**
 - [SilentSmeary/mysql_backup](https://github.com/SilentSmeary/mysql_backup) - A backup service for MySQL that pushes to github
