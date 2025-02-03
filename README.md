@@ -2,7 +2,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X8HCGQK)
 
-**View this README88
+**View this README**
 - [SilentSmeary/SilentSmeary](https://github.com/SilentSmeary/silentsmeary) - My Profile README
 
 **Projects I'm working currently on**
