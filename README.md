@@ -2,6 +2,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X8HCGQK)
 
+**View this README88
+- [SilentSmeary/SilentSmeary](https://github.com/SilentSmeary/silentsmeary) - My Profile README
+
 **Projects I'm working currently on**
 - [SilentSmeary/mysql_backup](https://github.com/SilentSmeary/mysql_backup) - A backup service for MySQL that pushes to github
 - [SilentSmeary/homepage-config](https://github.com/SilentSmeary/homepage-config) - Dashboard Configuration for hompage
